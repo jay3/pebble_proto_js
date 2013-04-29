@@ -1,0 +1,8 @@
+---
+name: pebble_proto_js demo #1
+description: An example of prototyping a pebble watch with pebble_proto_js
+authors:
+  - JayPS
+resources:
+  - http://labs.jayps.fr/pebble/proto_js/pebble_os.js
+...
